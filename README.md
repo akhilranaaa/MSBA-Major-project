@@ -1,8 +1,8 @@
 Group consist of:
-   Akhil Rana-20csu200
-   Vanshika Sangwan-20csu253
-   Priyanshu Kanyal-20csu201
-   Sainyam Aggarwal-20csu213
+1. Akhil Rana-20csu200
+2.  Vanshika Sangwan-20csu253
+3.  Priyanshu Kanyal-20csu201
+4.  Sainyam Aggarwal-20csu213
 
 
 Output Screenshots:
