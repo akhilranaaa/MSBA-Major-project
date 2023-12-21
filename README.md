@@ -14,3 +14,7 @@ Output Screenshots:
 
 4. Post Request
    <img width="1288" alt="Screenshot 2023-12-21 at 10 21 35 PM" src="https://github.com/akhilranaaa/MSBA-Major-project/assets/76087948/0c3aa9f6-9cf3-41de-bcdf-247f75c3d5ea">
+
+   <img width="1287" alt="Screenshot 2023-12-21 at 10 22 41 PM" src="https://github.com/akhilranaaa/MSBA-Major-project/assets/76087948/3b1f3ca8-19e1-4e6c-9d40-b06aacba1b0a">
+
+
